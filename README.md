@@ -1,4 +1,4 @@
-# Pokemon Manager API
+# Pokemon Project
 
 A RESTful API built using Node.js, Express, and MongoDB for managing Pokémon data.
 
@@ -8,6 +8,7 @@ A RESTful API built using Node.js, Express, and MongoDB for managing Pokémon da
 - Fully tested using Jest & Supertest
 
 ## Tech Stack
+- React Vite, Redux-toolkit
 - Node.js
 - Express
 - MongoDB + Mongoose
@@ -15,7 +16,8 @@ A RESTful API built using Node.js, Express, and MongoDB for managing Pokémon da
 
 ## Installation
 git clone <repository-url>
-cd backend
+cd Backend
+cd Frontend
 npm install
 
 ## Environment Variables
