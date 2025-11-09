@@ -22,10 +22,13 @@ npm install
 
 ## Environment Variables
 Create a `.env` file and add:
-MONGO_URI=mongodb://localhost:27017/pokemon
+Backend Side `.env`
+MONGO_URI=
 PORT=3000
-CLIENT_URL = http://localhost:5173/
-VITE_API_URL = http://localhost:3000/api/pokemon
+CLIENT_URL =
+
+frontend side `.env`
+VITE_API_URL =
 
 ## Run Frontend & Backend
 npm start
